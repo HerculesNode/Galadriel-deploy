@@ -53,6 +53,9 @@ nano .env
 - PRIVATE_KEY_GALADRIEL="0xCÜZDAN-PRİVATE-KEYİ"
 - PRIVATE_KEY_LOCALHOST="0xCÜZDAN-PRİVATE-KEYİ"
 
+  ![image](https://github.com/HerculesNode/Galadriel-deploy/assets/101635385/5ea16bf1-fdd0-4795-abac-b0f0f7109a3d)
+
+
 ```shell
 cd ..
 ```
