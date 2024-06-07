@@ -5,7 +5,7 @@
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Herculesnode)
  * [Galadriel Discord](https://discord.gg/galadriel)
- * [HErculesNode](https://herculesnode.xyz)
+ * [HerculesNode](https://herculesnode.xyz)
 
 
 ### ilk işlem
