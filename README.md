@@ -7,6 +7,7 @@
  * [Galadriel Discord](https://discord.gg/galadriel)
  * [HerculesNode](https://herculesnode.xyz)
 
+### Resmi Döküman : https://docs.galadriel.com/quickstart
 
 ### ilk işlem
 
