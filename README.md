@@ -77,7 +77,7 @@ npm install
 ### Çalıştıralım
 
 ```shell
-npm run callQuickstart
+npm run deployQuickstart
 ```
 
 - Bu şekilde çıktı almalısınız 
