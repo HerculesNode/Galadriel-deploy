@@ -11,6 +11,7 @@
 ### ilk işlem
 
 - Öncelikle Discord sunucusuna katılın ve faucet üzerinden token alın
+- !faucet cüzdan adresiniz
 
 ![image](https://github.com/HerculesNode/Galadriel-deploy/assets/101635385/f21999c0-f7b1-4f71-8b02-a6b5b3a78f0a)
 
