@@ -68,10 +68,6 @@ nano .env
   ![image](https://github.com/HerculesNode/Galadriel-deploy/assets/101635385/5ea16bf1-fdd0-4795-abac-b0f0f7109a3d)
 
 
-```shell
-cd ..
-```
-
 ### npm bileşenlerini kuralım
 
 ```shell
@@ -83,8 +79,6 @@ npm install
 ```shell
 npm run callQuickstart
 ```
-
-- Sorun yaşarsanız bu kodu kullanın `npm install semver --save`
 
 - Bu şekilde çıktı almalısınız 
 
