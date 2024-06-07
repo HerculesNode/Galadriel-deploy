@@ -46,11 +46,11 @@ cp template.env .env
 ```shell
 nano .env
 ```
-- 3 yer değişecek . Oracle adress sabit aşağıdaki gibi olacak Private key Galadriel ve Localhost cüzdanınızın Private keyi başındaki 0x silmeyin sonrasına ekleyin ctrl +x + y ile kaydedin
+- 3 yer değişecek . Oracle adress sabit aşağıdaki gibi olacak Private key Galadriel ve Localhost cüzdanınızın Private keyi 0x sonrasına ekleyin ctrl +x + y ile kaydedin
 
 - ORACLE_ADDRESS="0x4168668812C94a3167FCd41D12014c5498D74d7e"
 - PRIVATE_KEY_GALADRIEL="0xCÜZDAN-PRİVATE-KEYİ"
-- PRIVATE_KEY_LOCALHOST="0x0xCÜZDAN-PRİVATE-KEYİ"
+- PRIVATE_KEY_LOCALHOST="0xCÜZDAN-PRİVATE-KEYİ"
 
 ```shell
 cd ..
