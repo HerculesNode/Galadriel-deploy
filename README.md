@@ -85,6 +85,10 @@ npm run callQuickstart
 ![image](https://github.com/HerculesNode/Galadriel-deploy/assets/101635385/d1bccc2f-c871-436c-8391-98a643f754ee)
 
 
+- Node.js versiyon yükseltmek için
+- https://nodejs.org/en/download/package-manager
+
+
 - Daha sonra Explorer üzerinden bakın :
 https://explorer.galadriel.com/
 
