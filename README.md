@@ -23,6 +23,10 @@ sudo apt update
 ```
 
 ```shell
+sudo apt upgrade
+```
+
+```shell
 sudo apt install nodejs
 ```
 
