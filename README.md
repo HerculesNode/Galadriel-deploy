@@ -19,8 +19,15 @@
 ### Npm ve Nodejs kuralım
 
 ```shell
+sudo apt update
+```
+
+```shell
 sudo apt install nodejs
 ```
+
+- Sorun yaşarsanız buradan bakın kuruluma
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 
 ```shell
 sudo apt install npm
